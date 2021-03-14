@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+
+    background-color: hsl(217, 8%, 51%);
+    height: 100vh;
+}
+
+.main-page-img {
+
+    height: 60vw;
+
+}
+
+nav {
+    display: flex;
+
+}
+
+#logo{
+    height: 30px;
+}
